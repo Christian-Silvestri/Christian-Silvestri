@@ -1,4 +1,4 @@
-!(https://media-exp1.licdn.com/dms/image/C4E16AQHZTRhJPKGwkw/profile-displaybackgroundimage-shrink_350_1400/0/1656764731933?e=1675900800&v=beta&t=NrRQWhnNLA4-9JVn7wWN2TtNOpSbgwSvMccg6JsQqv0)
+![My image]([http://url/to/image.jpg](https://media-exp1.licdn.com/dms/image/C4E16AQHZTRhJPKGwkw/profile-displaybackgroundimage-shrink_350_1400/0/1656764731933?e=1675900800&v=beta&t=NrRQWhnNLA4-9JVn7wWN2TtNOpSbgwSvMccg6JsQqv0))
 - 😎 Hi, I'm Christian
 - Junior Full-Stack developer based in Rome. 
 - Great lover of Music, Art and Astrophysics
